@@ -1,0 +1,5 @@
+I:インサート
+ESCs:外枠に移動
+:w　write
+:q  quite
+
